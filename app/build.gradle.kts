@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.powitanie"
+    namespace = "com.example.zad3"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.example.powitanie"
+        applicationId = "com.example.zad3"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
